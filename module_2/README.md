@@ -222,3 +222,6 @@ git log --since="2022-04-18" --committer="Laura Pacilio" --graph
 git log --since="yesterday" --committer="Laura Pacilio"
 
 #### MD 20.p
+
+###### *
+Vai varētu būt, kad tas fails ir excluded? commit 16.datumā, bet push 20-21? 
